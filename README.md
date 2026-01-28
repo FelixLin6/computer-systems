@@ -1,6 +1,6 @@
 **Overview**
 
-A showcase of favorite projects mentioned in my resume.
+A showcase of favorite computer systems projects mentioned in resume.
 
 Malloc Lab
 - A memory allocator
